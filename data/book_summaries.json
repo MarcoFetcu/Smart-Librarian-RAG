@@ -1,0 +1,77 @@
+[
+  {
+    "title": "1984",
+    "summary": "O societate distopică aflată sub control total, unde Big Brother supraveghează fiecare gând și acțiune. Winston Smith încearcă să reziste manipulării și să caute adevărul și libertatea.",
+    "themes": ["libertate", "control social", "totalitarism", "adevăr"]
+  },
+  {
+    "title": "The Hobbit",
+    "summary": "Bilbo Baggins, un hobbit retras, pornește într-o aventură alături de pitici pentru a recupera comoara dragonului Smaug. Descoperă curajul și prietenia în această călătorie fantastică.",
+    "themes": ["aventură", "curaj", "prietenie", "fantasy"]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "Atticus Finch apără un bărbat de culoare acuzat pe nedrept în Sudul segregat al Americii. Prin ochii fiicei sale Scout, povestea explorează empatia, moralitatea și justiția.",
+    "themes": ["dreptate", "rasism", "moralitate", "familie"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "summary": "Elizabeth Bennet și Mr. Darcy navighează prejudecăți sociale și diferențe de clasă pentru a găsi iubirea. O poveste clasică despre orgoliu și înțelegere reciprocă.",
+    "themes": ["iubire", "prejudecată", "clasă socială", "familie"]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "summary": "Într-o lume unde cărțile sunt interzise, pompierul Montag descoperă importanța cunoașterii și libertății. Povestea avertizează asupra cenzurii și conformismului.",
+    "themes": ["cenzură", "libertate", "cunoaștere", "rezistență"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "summary": "Holden Caulfield, adolescent rebel, își explorează identitatea și alienarea într-o lume pe care o consideră falsă. O călătorie interioară spre maturizare.",
+    "themes": ["alienare", "identitate", "maturizare"]
+  },
+  {
+    "title": "The Lord of the Rings",
+    "summary": "Frodo și prietenii săi încearcă să distrugă Inelul Unic pentru a salva Pământul de Mijloc. O epopee a prieteniei, sacrificiului și luptei dintre bine și rău.",
+    "themes": ["prietenie", "sacrificiu", "bine vs. rău", "fantasy"]
+  },
+  {
+    "title": "The Alchemist",
+    "summary": "Santiago, un tânăr păstor, călătorește pentru a-și descoperi comoara și înțelege că adevărata valoare se află în călătorie și în urmarea Legendei Personale.",
+    "themes": ["destin", "căutare", "spiritualitate", "autodescoperire"]
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "summary": "Un tânăr soldat german descrie ororile Primului Război Mondial. Cartea arată pierderea inocenței și impactul devastator al războiului asupra generației tinere.",
+    "themes": ["război", "traumă", "prietenie", "pierdere"]
+  },
+  {
+    "title": "The Little Prince",
+    "summary": "Un prinț de pe o planetă îndepărtată vizitează diverse lumi și descoperă frumusețea prieteniei și a inocenței. Poveste filosofică despre viață și iubire.",
+    "themes": ["prietenie", "inocență", "sensul vieții", "imaginație"]
+  },
+  {
+    "title": "The Name of the Rose",
+    "summary": "Într-o mănăstire medievală au loc crime misterioase. Călugărul William investighează, folosind rațiunea și logica pentru a descoperi adevărul.",
+    "themes": ["mister", "cunoaștere", "religie", "putere"]
+  },
+  {
+    "title": "Moby Dick",
+    "summary": "Căpitanul Ahab pornește într-o vânătoare obsesivă după balena albă, simbol al destinului și al luptei omului cu natura. O poveste despre obsesie și nebunie.",
+    "themes": ["obsesie", "natură", "destin", "luptă interioară"]
+  },
+  {
+    "title": "Brave New World",
+    "summary": "O societate viitoare unde oamenii sunt controlați prin condiționare genetică și droguri. Romanul explorează libertatea, fericirea și uniformitatea socială.",
+    "themes": ["utopie", "control social", "tehnologie", "libertate"]
+  },
+  {
+    "title": "Crime and Punishment",
+    "summary": "Raskolnikov, un student sărac, comite o crimă crezând că poate justifica moral fapta. Povestea explorează vinovăția, moralitatea și căutarea mântuirii.",
+    "themes": ["vinovăție", "moralitate", "psihologie", "mântuire"]
+  },
+  {
+    "title": "Don Quixote",
+    "summary": "Don Quijote și Sancho Panza pornesc în aventuri ridicole și idealiste. Romanul explorează granița dintre realitate și iluzie, și idealismul naiv.",
+    "themes": ["idealism", "realitate vs. iluzie", "satiră", "aventură"]
+  }
+]
